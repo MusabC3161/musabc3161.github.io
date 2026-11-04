@@ -1,2 +1,7 @@
 google.com, pub-1640726552470422, DIRECT, f08c47fec0942fa0
 inmobi.com, 87c6153ee8ab446cac4ce84733a16937, DIRECT, 83e75a7ae333ca9d
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
